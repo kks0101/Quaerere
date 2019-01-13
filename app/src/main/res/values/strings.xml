@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quaerere</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Clear All</string>
+    <string name="History">History</string>
+    <string name="sortAsc">Sort Ascending</string>
+    <string name="sortDesc">Sort Descending</string>
+    <string name="Bookmarks">Bookmarks</string>
+    <string name="fav">Favorites</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_history">History</string>
+    <string name="set">Settings</string>
+    <string name="title_activity_light_theme">LightTheme</string>
+    <string name="title_activity_bookmark">Bookmarks</string>
+    <string name="title_activity_favourite">Favourites</string>
+</resources>
